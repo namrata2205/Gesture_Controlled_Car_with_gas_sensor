@@ -34,7 +34,7 @@ The system also integrates an MQ-2 gas sensor to detect harmful gases in the env
 5. The MQ-2 gas sensor continuously monitors gas levels and activates an alert if harmful gases are detected.
 
 ## Note
-This project was originally developed earlier as part of an academic IoT project.  
+This project was originally developed long time ago as part of an IoT project.  
 The prototype worked successfully during initial testing; however, the hardware setup is currently not functional due to component damage over time. The repository is shared to document the project design, implementation approach, and system architecture.
 
 ## Author
